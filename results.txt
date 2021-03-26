@@ -1,0 +1,6 @@
+Length of longest strand of Bytes: 27647
+Longest strand of bytes exists in files: 
+File Names:              | Offset (in Bytes):                      
+---------------------------------------------------------------------
+sample.2                 | 3072
+sample.3                 | 17408
