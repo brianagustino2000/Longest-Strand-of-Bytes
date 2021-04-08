@@ -10,7 +10,7 @@ The program would convert each file into hexadecimals by `convertFileToHex` and 
 
 ## Nodes.java
 
-#### `Nodes(int l, int o1, int o2, String rs)`
+### `Nodes(int l, int o1, int o2, String rs)`
 
 This constructor would store the length of the strand (l), the offset on the first file (o1), the offset on the second file (o2), and the strand in String (rs)
 
